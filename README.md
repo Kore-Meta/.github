@@ -1,2 +1,3 @@
-# .github
-For org readme only
+# Welcome to Kore Meta
+
+Here for the ride?
